@@ -3,4 +3,4 @@
     Designing games and general coding.
 - 📫 How to reach me ...
     Through my email: AbyssHead@outlook.com or through Ko-Fi via clicking the button down below
--[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z11C51F)
+- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z11C51F)
